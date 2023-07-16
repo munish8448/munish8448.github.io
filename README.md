@@ -30,7 +30,16 @@
 
 <a href="https://www.buymeacoffee.com/voidPlc"> <img align="left" src="https://github.com/munish8448/munish8448.github.io/blob/main/images/bmc-logo.svg" height="30" width="40" alt="voidPlc" /></a><br>
 
-        
+<a class="github-button" href="https://github.com/munish8448" aria-label="Follow @munish8448 on GitHub">Follow @munish8448</a>
+
+
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+
+ 
 </header>
 
 
