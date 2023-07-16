@@ -3,8 +3,8 @@
         <p class="header">My Notes</p>
 
 <ul>
-          
-  <li><a class="buttons github" href="https://github.com/munish8448/munish8448.github.io">View On GitHub</a></li>
+      [<kbd> <br> "KeyBinding Button" href="https://github.com/munish8448/munish8448.github.io" <br> </kbd>][KBD]    
+<!--   <li><a class="buttons github" href="https://github.com/munish8448/munish8448.github.io">View On GitHub</a></li> -->
 </ul>
 
         
