@@ -12,7 +12,9 @@
 <a class="github-button" href="https://youtube.com/@real_ee" data-color-scheme="no-preference: dark_high_contrast; light: light; dark: dark;" data-icon="octicon-play" data-size="large" aria-label="Use this GitHub Action buttons/github-buttons on GitHub">YouTube</a>
 
 
-<p class="header">My Notes</p>
+<p class="header">My Notes
+
+</p>
 	
 <!-- button script -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
@@ -23,7 +25,7 @@
 
 
 
-# O&M Department
+# <br>O&M Department
 
 ## About
 - Electrical systems need regular maintenance to ensure continued compliance with the codes and publications referred to in this document. Such maintenance will prevent system and equipment failures and ensure maximum safety and efficiency in the utilization of the facilities.
