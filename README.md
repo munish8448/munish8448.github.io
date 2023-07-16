@@ -3,9 +3,7 @@
         <p class="header">My Notes</p>
 
 <ul>
-     <li> <iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe> </li>
-
-<li><iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe> </li>
+     [![Github](https://img.shields.io/npm/v/github-buttons)](https://github.com/munish8448/munish8448.github.io)
 <!--   <li><a class="buttons github" href="https://github.com/munish8448/munish8448.github.io">View On GitHub</a></li> -->
 </ul>
 
