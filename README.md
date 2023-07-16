@@ -87,13 +87,13 @@
 -
 ## Test Kits
 
--
-  | S.No. | Kit | Make |
-  | 1 | TanDelta | Megger |
-  | 2 | CT Analyzer | Omicron |
-  | 3 | WRM | Megger |
-  | 4 | TTR | Megger |
--
+
+| S.No. | Kit | Make |
+| 1 | TanDelta | Megger |
+| 2 | CT Analyzer | Omicron |
+| 3 | WRM | Megger |
+| 4 | TTR | Megger |
+
 ## Significance of Tests
 
 ### TanDelta Test
@@ -147,36 +147,36 @@
 
 ### List of Relays
 
-  | <b> S.No </b> | <b> Relay </b> | <b> Make </b> | <b> Use </b> |
-  |---|---|---|---|
-  | 1. | SPAJ 140C | ABB | O/C, E/F, DR & NDR |
-  | 1. | SPAD 346 C3 | ABB | Diff., ITT fault, E/F |
-  | 1. | REU 610 | ABB | |
-  | 1. | REU 615 | ABB | O/V, U/V |
-  | 1. | REL 670 | ABB | Distance |
-  | 1. | REF 615 | ABB | O/C, E/F, DR & NDR |
-  | 1. | REL  511 | ABB | Distance |
-  | 1. | RED 670 | ABB | Line Diff. |
-  | 1. | RED 615 | ABB | |
-  | 1. | RET 615 | ABB | |
-  | 1. | REF 620 | ABB | O/C, E/F, DR & NDR |
-  | 1. | REU 615 | ABB | Line Diff. |
-  | 1. | P442 | GE MiCOM | Distance |
-  | 1. | P543 | GE MiCOM | Line Diff.l |
-  | 1. | P642 | ALSTOM | |
-  | 1. | P127 | Schneider | O/C, E/F, DR & NDR |
-  | 1. | P141 | Schneider MiCOM | O/C, E/F, DR & NDR |
-  | 1. | P142 | Schneider MiCOM | O/C, E/F, DR & NDR |
-  | 1. | P143 | Schneider MiCOM | O/C, E/F, DR & NDR |
-  | 1. | P120 | Schneider MiCOM | |
-  | 1. | P94V | GE Agile | |
-  | 1. | Vamp57 | Schneider | |
-  | 1. | 7SA6 | Siemens SIPROTEC | Distance |
-  | 1. | 7SJ6 | Siemens SIPROTEC | |
-  | 1. | 7SJ8 | Siemens SIPROTEC | O/V, U/V |
-  | 1. | 7RW6 | Siemens SIPROTEC | O/V, U/V |
-  | 1. | ADR 233 B | Ashida | |
-  | 1. | ADR 245 B | Ashida | |
+| S.No | Relay | Make | Use |
+|---|---|---|---|
+| 1. | SPAJ 140C | ABB | O/C, E/F, DR & NDR |
+| 1. | SPAD 346 C3 | ABB | Diff., ITT fault, E/F |
+| 1. | REU 610 | ABB | |
+| 1. | REU 615 | ABB | O/V, U/V |
+| 1. | REL 670 | ABB | Distance |
+| 1. | REF 615 | ABB | O/C, E/F, DR & NDR |
+| 1. | REL  511 | ABB | Distance |
+| 1. | RED 670 | ABB | Line Diff. |
+| 1. | RED 615 | ABB | |
+| 1. | RET 615 | ABB | |
+| 1. | REF 620 | ABB | O/C, E/F, DR & NDR |
+| 1. | REU 615 | ABB | Line Diff. |
+| 1. | P442 | GE MiCOM | Distance |
+| 1. | P543 | GE MiCOM | Line Diff.l |
+| 1. | P642 | ALSTOM | |
+| 1. | P127 | Schneider | O/C, E/F, DR & NDR |
+| 1. | P141 | Schneider MiCOM | O/C, E/F, DR & NDR |
+| 1. | P142 | Schneider MiCOM | O/C, E/F, DR & NDR |
+| 1. | P143 | Schneider MiCOM | O/C, E/F, DR & NDR |
+| 1. | P120 | Schneider MiCOM | |
+| 1. | P94V | GE Agile | |
+| 1. | Vamp57 | Schneider | |
+| 1. | 7SA6 | Siemens SIPROTEC | Distance |
+| 1. | 7SJ6 | Siemens SIPROTEC | |
+| 1. | 7SJ8 | Siemens SIPROTEC | O/V, U/V |
+| 1. | 7RW6 | Siemens SIPROTEC | O/V, U/V |
+| 1. | ADR 233 B | Ashida | |
+| 1. | ADR 245 B | Ashida | |
 - $\underline{Abbreviations}$
 - O/C ---> Over Current
 - O/V ---> Over Voltage
