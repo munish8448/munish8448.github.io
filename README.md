@@ -5,11 +5,10 @@
 <!-- star -->
 <a class="github-button" href="https://github.com/munish8448/munish8448.github.io" data-color-scheme="no-preference: dark_high_contrast; light: light; dark: dark;" data-size="large" aria-label="Star munish8448/munish8448.github.io on GitHub">Star</a>
 
-<p align="left">
 <a href="https://linkedin.com/in/munish-kumar-8483401b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="munish-kumar-8483401b4" height="30" width="40" /></a>
 	
 <a href="https://www.youtube.com/c//ucqihan_hqpxaexmp6lacaxa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="/ucqihan_hqpxaexmp6lacaxa" height="30" width="40" /></a>
-</p>
+
 
 
 <!-- button script -->
