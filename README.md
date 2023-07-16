@@ -8,34 +8,11 @@
 <!-- star -->
 <a class="github-button" href="https://github.com/munish8448/munish8448.github.io" data-color-scheme="no-preference: dark_high_contrast; light: light; dark: dark;" data-size="large" aria-label="Star munish8448/munish8448.github.io on GitHub">Star</a>
 
-<!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://youtube.com/@real_ee" data-color-scheme="no-preference: dark_high_contrast; light: light; dark: dark;" data-icon="octicon-play" aria-label="Use this GitHub Action buttons/github-buttons on GitHub">YouTube</a>
 
 
 <p class="header">My Notes</p>
 	
-<!--   
-<ul>
-     
-<li><a class="buttons github" href="https://github.com/munish8448/munish8448.github.io">View On GitHub</a></li> 
-</ul>
--->
-        
-
-<!--        
-<ul>
-    <li><a class="buttons github" href="https://github.com/munish8448">GitHub Profile</a></li>
-	  
-<li><p align="left">
-<a href="https://www.youtube.com/c/@real_ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@real_ee" height="30" width="40" /></a>
-</p></li>
-
-<li><p><a href="https://www.buymeacoffee.com/voidPlc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="voidPlc" /></a></p><br><br></li>
-    
-</ul>
--->
-
-
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
