@@ -1,6 +1,16 @@
 <header>
-        <h1 class="header">Progress Report</h1>
-        <p class="header">My Notes</p>
+
+<h1 class="header">Progress Report</h1>
+
+<!-- follow -->
+<a class="github-button" href="https://github.com/munish8448" data-color-scheme="no-preference: dark_high_contrast; light: light; dark: dark;" data-size="large" aria-label="Follow @munish8448 on GitHub">Follow @munish8448</a>
+
+<!-- star -->
+<a class="github-button" href="https://github.com/munish8448/munish8448.github.io" data-color-scheme="no-preference: dark_high_contrast; light: light; dark: dark;" data-size="large" aria-label="Star munish8448/munish8448.github.io on GitHub">Star</a>
+
+
+
+<p class="header">My Notes</p>
 	
 <!--   
 <ul>
@@ -25,12 +35,10 @@
 
 <a class="buttons github" href="https://github.com/munish8448">GitHub Profile</a>
 
-<a class="github-button" href="https://github.com/munish8448/munish8448.github.io" data-icon="octicon-star" aria-label="Star munish8448/munish8448.github.io on GitHub">Star</a>	
 <a href="https://www.youtube.com/c/@real_ee" target="blank"><img align="center" src="https://github.com/munish8448/munish8448.github.io/blob/main/images/youtube.svg" alt="@real_ee" height="30" width="40" /></a>
 
 <a href="https://www.buymeacoffee.com/voidPlc"> <img align="left" src="https://github.com/munish8448/munish8448.github.io/blob/main/images/bmc-logo.svg" height="30" width="40" alt="voidPlc" /></a><br>
 
-<a class="github-button" href="https://github.com/munish8448" aria-label="Follow @munish8448 on GitHub">Follow @munish8448</a>
 
 
 
