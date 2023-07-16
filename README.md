@@ -1,43 +1,75 @@
-# O&M Department, 18-4-23 to 14-6-23
+# O&M Department
+
+## About
+- Electrical systems need regular maintenance to ensure continued compliance with the codes and publications referred to in this document. Such maintenance will prevent system and equipment failures and ensure maximum safety and efficiency in the utilization of the facilities.
 
 ## System Overview
 
 ### SLD
-### Equipment
-###
-## Components of Distribution System
 
-### Distribution Transformer
+- A single-line diagram (also known as an SLD or one-line diagram) is a simplified representation of an electrical system. Symbols and lines are used to represent the nodes and connections in the system, and electrical characteristics may be included as well. 
 
-#### Main Tank
-#### Conservator
-#### Breather
-#### Magnetic Oil Gauge
-#### Bushing
+![SLD](https://en.wikipedia.org/wiki/File:One-line_diagram.svg)
 
-### RMU
-### ACB
-### Cables / Leads
+## Equipment
+- Various Equipments like **transformers, supply cables, RMU, Feeder pillar, ACB** etc are use throughout the electrical power distribution system in order to provide electricity to the consumers in an effient and reliable manner.
 
-###### HT Cable
-###### LT Cable
-###### Single Core Leads
-###### HTAB Cable
-###### LTAB Cable
-	-
-#### Transformer Load Calculation
+### Components of Distribution System
 
-##### Max Current under normal condition
-##### Fault Current
-#### Load Balancing
+- **Distribution Transformer** - A distribution transformer is used to provide safe level of voltage to consumers as the transmission line voltages are very high in order to keep the transmission losses minimum. 
 
-##### What is Load Balancing?
-##### How it's done?
-#### Transformer Cooling Methods
-#### Transformer Preventive Maintenance
-#### RMU
-#### LT ACB
-#### Cables and Cable Connector
+- These are step down transfomer that takes 11KV supply as primary and provides 220V (L-N) or 430V (L-L) at secondary. 
+
+- Parts of DTR
+
+
+    - **Main Tank** - Transformer tank also named transformer tank body. It is used to hold, protect, cool the winding and core in one Electrical distributor transformer. The tank body provides isolation of oil and the core from the outside environment. 
+    
+    ![main tank]()
+    
+    - **Conservator** - The Conservator Tank of a transformer is defined simply as a cylindrical tank mounted on the roof of the transformer main tank. It is used to provide enough space for the oil in the transformer to spread after heating.
+    
+    ![conservator]()
+    
+    - **Breather** - The breather is used in the transformer to filter out the moisture from the air. Breather consists of silica gel which absorbs moisture from the air. Conservator tank present at the top of the transformer which allows adequate space for expansion of oil.
+    
+    ![breather]()
+    
+    - **Magnetic Oil Gauge** - The MOG (Magnetic Oil Gauge) is a device by which we can supervise the level of liquid/oil inside the tank or conservator of power transformer and also gives us an alert low oil level indication with making mercury switch. 
+    
+    ![mog]()
+    
+    - **Bushing** - In electric power, a bushing is a hollow electrical insulator that allows an electrical conductor to pass safely through a conducting barrier such as the case of a transformer or circuit breaker without making electrical contact with it.
+    
+    ![bushing]()
+    
+    - **Radiator** - The radiator is an essential type of equipment of oil transformers used to transfer the thermal energy from one medium to another for the purpose of cooling. The radiators are linked to the transformer through the pipeline at the upper and lower side of the transformer
+    
+    ![radiator]()
+    
+
+- **RMU**
+- **ACB**
+- **Cables / Leads**
+
+    - **HT Cable**
+    - **LT Cable**
+    - **Single Core Leads**
+    - **HTAB Cable**
+    - **LTAB Cable**
+	- **Cable Connector**
+
+### Transformer Load Calculation
+
+- Max Current under normal condition
+- Fault Current
+- Load Balancing
+
+## What is Load Balancing?
+## How it's done?
+## Transformer Cooling Methods
+## Transformer Preventive Maintenance
+#### 
 #### Cable Termination
 #### Partial Discharge Test
 #### Tool Inspection
@@ -167,16 +199,17 @@
 
 - ---
 
-### What should we know
+# What should we know
 
-#### Connections
+## Connections
 - Every relay manufacturer provides the connection/ wiring diagram for all relay. This is always provided by the manufacturer with the relay when delivered to the user. In case it's lost or went missing, they are readily available on the manufacturers website.
 -
   <i>Example : Siemens 7UT612</i>
 	- ![image.png](../assets/image_1689242575518_0.png)
 	-
-- Every relay will have varying number of similar input output like:
-	- Power Supply :
+    - Every relay will have varying number of similar input output like:
+        
+        Power Supply :
 		- Can be AC/DC voltage level is also provided either in wiring diagram or on relay itself or both.
 		- Relay may or may not have an option to be powered by an auxiliary supply.
 		-
