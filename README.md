@@ -1,14 +1,14 @@
 - # O&M Department, 18-4-23 to 14-6-23
-  collapsed:: true
+  
 	- ## Posting Details
-	  collapsed:: true
+	  
 		- ##### Division  - `Nehru Place`
 		- ##### Reporting Officer - `Mr. Mukesh Kumar (DGM)`
 		- ##### Loaction - `W-Block GK-1`
 		- ##### Transfer ---> `O&M Lajpat Nagar - 4`
 			- ##### SDO - `Mr. Shahzad Khan`
 	- ## About O&M
-	  collapsed:: true
+	  
 		-
 		- Location ---> Lajpat Nagar
 		- Area Maintained ---> a,b,c,
@@ -20,14 +20,14 @@
 		- Total Feeder --->
 		-
 	- ## System Overview
-	  collapsed:: true
+	  
 		- ### SLD
 		- ### Equipment
 		- ###
 	- ## Components of Distribution System
-	  collapsed:: true
+	  
 		- ### Distribution Transformer
-		  collapsed:: true
+		  
 			- #### Main Tank
 			- #### Conservator
 			- #### Breather
@@ -37,7 +37,7 @@
 		- ### RMU
 		- ### ACB
 		- ### Cables / Leads
-		  collapsed:: true
+		  
 			- ###### HT Cable
 			- ###### LT Cable
 			- ###### Single Core Leads
@@ -45,11 +45,11 @@
 			- ###### LTAB Cable
 		-
 	- #### Transformer Load Calculation
-	  collapsed:: true
+	  
 		- ##### Max Current under normal condition
 		- ##### Fault Current
 	- #### Load Balancing
-	  collapsed:: true
+	  
 		- ##### What is Load Balancing?
 		- ##### How it's done?
 	- #### Transformer Cooling Methods
@@ -70,7 +70,7 @@
 	-
 - # EHV Protection South - 2, 15-6-23
 	- ## Posting Details
-	  collapsed:: true
+	  
 		- ##### Reporting Officer - `Mr. Mukesh Kumar Jain (GM)`
 		- ##### Loaction - `AIIMS 33/11 KV GRID`
 	- ## About EHV Protection
@@ -85,10 +85,10 @@
 		- High voltage power systems are extremely complex since it is essential to keep certain electrical variables under certain ranges that cannot vary. Voltage, frequency and level of harmonics are some of the constantly supervised electrical parameters. The electric current and the active and reactive power flows, as well as the power factor, are other determining parameters to ensure enough quality and efficiency to the transported electrical energy. In addition, to avoid irreversible damage to electrical grids, high voltage systems have protection relays, whose purpose is to protect these grids against electrical faults, lightning strikes, incorrect operations, etc.
 		- For these reasons, the design and management of an electric power system is a very complex task due to the dynamics of its behavior and the constant power fluctuations that occur. Securing the stability of the electrical system is essential. For that purpose, the main elements of the system are analyzed, among them: transmission lines, generators and electrical power transformers.
 	- ## Various Tests performed on equipment
-	  collapsed:: true
+	  
 		-
 	- ## Test Kits
-	  collapsed:: true
+	  
 		-
 		  | S.No. | Kit | Make |
 		  | 1 | TanDelta | Megger |
@@ -97,26 +97,26 @@
 		  | 4 | TTR | Megger |
 		-
 	- ## Significance of Tests
-	  collapsed:: true
+	  
 		- ### TanDelta Test
-		  collapsed:: true
+		  
 			- The main purpose of the tan delta test is to make sure of maintaining a secure and reliable functioning of the transformer. With the calculation of dissipation factor and capacitance values, it provides the result of insulation behavior of bushings and in windings too.
 		- ### WRM
-		  collapsed:: true
+		  
 			- Winding Resistance Measurement
-			  collapsed:: true
+			  
 				- The purpose of the test is to check for gross differences between the windings and for opens in the connections.
 			- Winding resistance measurements detect various faults in motors, generators, and transformers: shorted & open turns, loose connections, and broken conductors & resistive connections problems. These issues may be the cause of wear or other defects in a wound rotor motor.
 		- ### Secondary Injection Test
-		  collapsed:: true
+		  
 			- The purpose of secondary injection testing is to verify that the correct operation of the protection scheme from the relay input terminals onwards is functioning correctly with the settings specified.
 		- ### TTR
-		  collapsed:: true
+		  
 			- Transformer Turn Ratio Test
 				- Transformer Turns Ratio (TTR) is one of the most common test used to assess the condition of the transformer's windings and core. It is performed as a part of acceptance and maintenance test procedure to determine any problems due to poor design, assembly, handling, overloading, fault conditions or poor maintenance.
 				-
 		- ### CT Analyzer
-		  collapsed:: true
+		  
 			- #### How CT Analyzer works
 			    
 			  Injects low test signals into secondary side of the CT  
@@ -153,10 +153,10 @@
 			-
 	- ## Relays
 		- ### -
-		  collapsed:: true
+		  
 			-
 		- ### Types
-		  collapsed:: true
+		  
 			- ### Electromechanical
 				- An electromechanical relay is a type of relay which function using a magnetic field produced by an electromagnetic coil when a control signal is applied to it. It is called as electromechanical since it has moving contacts in the output circuit which are operated by applying an electrical signal.
 				- #### Classification of EMRs based on their applications
@@ -216,7 +216,7 @@
 				- DR ---> Directional
 				- NDR ---> Non-Directional
 		- ### What should we know
-		  collapsed:: true
+		  
 			- #### Connections
 				- Every relay manufacturer provides the connection/ wiring diagram for all relay. This is always provided by the manufacturer with the relay when delivered to the user. In case it's lost or went missing, they are readily available on the manufacturers website.
 				-
@@ -248,12 +248,12 @@
 					  <i>Example :</i>
 						- Block, Indication, to send data to SCADA, Trip the breaker
 	- ## Working of Specific Relays
-	  collapsed:: true
+	  
 		-
 	- ## Overview of System
-	  collapsed:: true
+	  
 		-
 	- ## Switchgear / Switch yard / CRP / GIS
-	  collapsed:: true
+	  
 		-
 -
