@@ -10,7 +10,7 @@
 
         
 
-        
+<!--        
 <ul>
     <li><a class="buttons github" href="https://github.com/munish8448">GitHub Profile</a></li>
 	  
@@ -21,6 +21,16 @@
 <li><p><a href="https://www.buymeacoffee.com/voidPlc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="voidPlc" /></a></p><br><br></li>
     
 </ul>
+-->
+	
+<a class="buttons github" href="https://github.com/munish8448">GitHub Profile</a>
+	  
+<p align="left">
+<a href="https://www.youtube.com/c/@real_ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@real_ee" height="30" width="40" /></a>
+</p>
+
+<p><a href="https://www.buymeacoffee.com/voidPlc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="voidPlc" /></a></p><br><br>
+
         
 </header>
 
