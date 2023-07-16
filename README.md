@@ -66,10 +66,32 @@
 - Load Balancing
 
 ## What is Load Balancing?
+For a three-phase transformer, each phase should be considered as a single-phase transformer. When distributing single-phase loads between the three phases, each of the three windings should be evenly loaded with single phase loads.
+
+Failure to balance loads can cause secondary voltage imbalances, additional transformer losses and high neutral currents. Significantly unbalanced loads can reduce the life of a transformer.
+
+Since we can't control the load connected to a distibution transformer we try to supply electricity to the consumer such that each phase as nearly equal load. 
+
+
 ## How it's done?
+If we take a closer look at the system we can see that the load or the service lines are not connected to the transformer directly we have an `LT-Main` connected to transformer's secondary. The `LT-Main` is then used to energies the `LT-Busbar` or `Sub-LT ACB` which are connected to the underground cables that are used to energize the `LTAB` mounted on poles.
+
+So inorder to balance the load we first take the load connected on transformer using `clampon Ammerter` and load on all the LT-Main and sub LT-ACB.
+
+After this we can try to shift the load by interchanging the LT-AB leads in order to get to a point where we have somewhat similar load on each phase.
+
+*Note - Interchanging the leads of LT-Main won't change anything.*
+
+If we are unable to balnace load by interchanging the leads of LT-ACB we try to balance load from the distribution box by transfering individual loads from one phase to another.
+
+No changes is made in system during the process we first try to balance loads on paper by performing basic calculation if and only if we get the desired result the connections are changed according to the results obtained from the calculations.
+
+A difference of under or equal to 50A between two phases can be accepted.
+
 ## Transformer Cooling Methods
+
 ## Transformer Preventive Maintenance
-#### 
+
 #### Cable Termination
 #### Partial Discharge Test
 #### Tool Inspection
@@ -82,19 +104,16 @@
 # EHV Protection South - 2, 15-6-23
 
 ## About EHV Protection
-- ![IMG_20230713_124653.jpg](../assets/IMG_20230713_124653_1689233069065_0.jpg)
-  <p align="center">
-  <b><i>CRP Panel EHV Protection South 2 AIIMS </i></b>
-  </p>
-- ![IMG_20230713_124721.jpg](../assets/IMG_20230713_124721_1689233082842_0.jpg){:height 633, :width 718}
-  <p align="center">
-  <b><i>33KV GIS EHV Protection South 2 AIIMS </i></b>
-  </p>
+
+![CRP Panel EHV Protection South 2 AIIMS]() 
+
+![33KV GIS EHV Protection South 2 AIIMS ]()
+
 - High voltage power systems are extremely complex since it is essential to keep certain electrical variables under certain ranges that cannot vary. Voltage, frequency and level of harmonics are some of the constantly supervised electrical parameters. The electric current and the active and reactive power flows, as well as the power factor, are other determining parameters to ensure enough quality and efficiency to the transported electrical energy. In addition, to avoid irreversible damage to electrical grids, high voltage systems have protection relays, whose purpose is to protect these grids against electrical faults, lightning strikes, incorrect operations, etc.
 - For these reasons, the design and management of an electric power system is a very complex task due to the dynamics of its behavior and the constant power fluctuations that occur. Securing the stability of the electrical system is essential. For that purpose, the main elements of the system are analyzed, among them: transmission lines, generators and electrical power transformers.
+
 ## Various Tests performed on equipment
 
--
 ## Test Kits
 
 | S.No. | Kit | Make |
@@ -108,7 +127,8 @@
 
 ### TanDelta Test
 
-	- The main purpose of the tan delta test is to make sure of maintaining a secure and reliable functioning of the transformer. With the calculation of dissipation factor and capacitance values, it provides the result of insulation behavior of bushings and in windings too.
+- The main purpose of the tan delta test is to make sure of maintaining a secure and reliable functioning of the transformer. With the calculation of dissipation factor and capacitance values, it provides the result of insulation behavior of bushings and in windings too.
+
 ### WRM
 
 - Winding Resistance Measurement
