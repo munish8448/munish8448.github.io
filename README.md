@@ -1,9 +1,10 @@
 <header>
         <h1 class="header">Progress Report</h1>
         <p class="header">My Notes</p>
+	
 
 <ul>
-     [![Github](https://img.shields.io/npm/v/github-buttons)](https://github.com/munish8448/munish8448.github.io)
+     
 <!--   <li><a class="buttons github" href="https://github.com/munish8448/munish8448.github.io">View On GitHub</a></li> -->
 </ul>
 
@@ -15,6 +16,7 @@
   </ul>
         
 </header>
+[![Github](https://img.shields.io/npm/v/github-buttons)](https://github.com/munish8448/munish8448.github.io)
 
 
 
