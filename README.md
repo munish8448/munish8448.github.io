@@ -1,6 +1,8 @@
 <header>
 
 <h1 class="header">Progress Report</h1>
+<p class="header">My Notes</p>
+
 
 <!-- follow -->
 <a class="github-button" href="https://github.com/munish8448" data-color-scheme="no-preference: dark_high_contrast; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @munish8448 on GitHub">Follow @munish8448</a>
@@ -12,9 +14,7 @@
 <a class="github-button" href="https://youtube.com/@real_ee" data-color-scheme="no-preference: dark_high_contrast; light: light; dark: dark;" data-icon="octicon-play" data-size="large" aria-label="Use this GitHub Action buttons/github-buttons on GitHub">YouTube</a>
 
 
-<p class="header">My Notes
 
-</p><br>
 	
 <!-- button script -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
