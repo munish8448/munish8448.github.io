@@ -8,7 +8,9 @@
 <!-- star -->
 <a class="github-button" href="https://github.com/munish8448/munish8448.github.io" data-color-scheme="no-preference: dark_high_contrast; light: light; dark: dark;" data-size="large" aria-label="Star munish8448/munish8448.github.io on GitHub">Star</a>
 
-<a class="github-button" href="https://youtube.com/@real_ee" data-color-scheme="no-preference: dark_high_contrast; light: light; dark: dark;" data-size="large" >YouTube</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://youtube.com/@real_ee" data-color-scheme="no-preference: dark_high_contrast; light: light; dark: dark;" data-icon="octicon-play" aria-label="Use this GitHub Action buttons/github-buttons on GitHub">YouTube</a>
+
 
 <p class="header">My Notes</p>
 	
