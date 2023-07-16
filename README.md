@@ -13,10 +13,10 @@
         
   <ul>
     <li><a class="buttons github" href="https://github.com/munish8448">GitHub Profile</a></li>
+	  <li><p><a href="https://www.buymeacoffee.com/voidPlc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="voidPlc" /></a></p><br><br></li>
   </ul>
         
 </header>
-[![Github](https://img.shields.io/npm/v/github-buttons)](https://github.com/munish8448/munish8448.github.io)
 
 
 
