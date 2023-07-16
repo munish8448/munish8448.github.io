@@ -177,6 +177,7 @@
 | 1. | 7RW6 | Siemens SIPROTEC | O/V, U/V |
 | 1. | ADR 233 B | Ashida | |
 | 1. | ADR 245 B | Ashida | |
+
 - $\underline{Abbreviations}$
 - O/C ---> Over Current
 - O/V ---> Over Voltage
