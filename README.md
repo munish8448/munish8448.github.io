@@ -14,7 +14,7 @@
 
 <p class="header">My Notes
 
-</p>
+</p><br>
 	
 <!-- button script -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
@@ -25,7 +25,7 @@
 
 
 
-# <br>O&M Department
+# O&M Department
 
 ## About
 - Electrical systems need regular maintenance to ensure continued compliance with the codes and publications referred to in this document. Such maintenance will prevent system and equipment failures and ensure maximum safety and efficiency in the utilization of the facilities.
