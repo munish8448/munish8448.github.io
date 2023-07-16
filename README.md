@@ -2,12 +2,12 @@
         <h1 class="header">Progress Report</h1>
         <p class="header">My Notes</p>
 	
-
-	<ul>
-	     
-	<!--   <li><a class="buttons github" href="https://github.com/munish8448/munish8448.github.io">View On GitHub</a></li> -->
-	</ul>
-
+<!--   
+<ul>
+     
+<li><a class="buttons github" href="https://github.com/munish8448/munish8448.github.io">View On GitHub</a></li> 
+</ul>
+-->
         
 
 <!--        
@@ -25,11 +25,10 @@
 	
 <a class="buttons github" href="https://github.com/munish8448">GitHub Profile</a>
 	  
-<p align="left">
-<a href="https://www.youtube.com/c/@real_ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@real_ee" height="30" width="40" /></a>
-</p>
 
-<p><a href="https://www.buymeacoffee.com/voidPlc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="voidPlc" /></a></p><br><br>
+<a href="https://www.youtube.com/c/@real_ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@real_ee" height="30" width="40" /></a>
+
+<a href="https://www.buymeacoffee.com/voidPlc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="voidPlc" /></a>
 
         
 </header>
