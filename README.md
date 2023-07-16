@@ -1,24 +1,5 @@
 # O&M Department, 18-4-23 to 14-6-23
-  
-## Posting Details
 
-##### Division  - `Nehru Place`
-##### Reporting Officer - `Mr. Mukesh Kumar (DGM)`
-##### Loaction - `W-Block GK-1`
-##### Transfer ---> `O&M Lajpat Nagar - 4`
-##### SDO - `Mr. Shahzad Khan`
-## About O&M
-
--
-- Location ---> Lajpat Nagar
-- Area Maintained ---> a,b,c,
-- Consumer Base
-	- HT Consumer --->
-	- LT Consumer--->
-- Total DTR --->
-- Total RMU --->
-- Total Feeder --->
-	
 ## System Overview
 
 ### SLD
@@ -67,10 +48,7 @@
 #### Meter Installation Guidelines
 ---
 # EHV Protection South - 2, 15-6-23
-## Posting Details
 
-##### Reporting Officer - `Mr. Mukesh Kumar Jain (GM)`
-##### Loaction - `AIIMS 33/11 KV GRID`
 ## About EHV Protection
 - ![IMG_20230713_124653.jpg](../assets/IMG_20230713_124653_1689233069065_0.jpg)
   <p align="center">
@@ -178,7 +156,7 @@
 | 1. | ADR 233 B | Ashida | |
 | 1. | ADR 245 B | Ashida | |
 
-- $\underline{Abbreviations}$
+**Abbreviations**
 - O/C ---> Over Current
 - O/V ---> Over Voltage
 - U/V ---> Under Voltage
@@ -186,7 +164,9 @@
 - Diff. ---> Differential
 - DR ---> Directional
 - NDR ---> Non-Directional
+
 - ---
+
 ### What should we know
 
 #### Connections
