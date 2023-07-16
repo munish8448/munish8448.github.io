@@ -22,13 +22,13 @@
     
 </ul>
 -->
-<div>
+
 <a class="buttons github" href="https://github.com/munish8448">GitHub Profile</a>
-	
-<a href="https://www.youtube.com/c/@real_ee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@real_ee" height="30" width="40" /></a>
+
+<a class="github-button" href="https://github.com/munish8448/munish8448.github.io" data-icon="octicon-star" aria-label="Star munish8448/munish8448.github.io on GitHub">Star</a>	
+<a href="https://www.youtube.com/c/@real_ee" target="blank"><img align="center" src="https://github.com/munish8448/munish8448.github.io/blob/main/images/youtube.svg" alt="@real_ee" height="30" width="40" /></a>
 
 <a href="https://www.buymeacoffee.com/voidPlc"> <img align="left" src="https://github.com/munish8448/munish8448.github.io/blob/main/images/bmc-logo.svg" height="30" width="40" alt="voidPlc" /></a><br>
-</div>	
 
         
 </header>
