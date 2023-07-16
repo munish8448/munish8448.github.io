@@ -6,7 +6,7 @@
 <a class="github-button" href="https://github.com/munish8448/munish8448.github.io" data-color-scheme="no-preference: dark_high_contrast; light: light; dark: dark;" data-size="large" aria-label="Star munish8448/munish8448.github.io on GitHub">Star</a>
 
 <!-- youtube -->
-<a class="github-button" href="https://youtube.com/@real_ee" data-color-scheme="no-preference: dark_high_contrast; light: light; dark: dark;" data-icon="octicon-play" data-size="large" >YouTube</a>
+<a class="github-button" href="https://youtube.com/channel/UCqihAN_hqpXAExmp6LACaxA" data-color-scheme="no-preference: dark_high_contrast; light: light; dark: dark;" data-icon="octicon-play" data-size="large" >YouTube</a>
 	
 <!-- button script -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
