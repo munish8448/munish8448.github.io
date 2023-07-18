@@ -38,10 +38,7 @@
 
 - A single-line diagram (also known as an SLD or one-line diagram) is a simplified representation of an electrical system. Symbols and lines are used to represent the nodes and connections in the system, and electrical characteristics may be included as well. 
 
-<iframe
-  src="https://github.com/munish8448/munish8448.github.io/blob/main/diagrams/networkOverview.md"
-  style="width:100%; height:300px;"
-></iframe>
+[Single Line Diagram](https://github.com/munish8448/munish8448.github.io/blob/main/diagrams/networkOverview.md)
 
 ## Equipment
 - Various Equipments like **transformers, supply cables, RMU, Feeder pillar, ACB** etc are use throughout the electrical power distribution system in order to provide electricity to the consumers in an effient and reliable manner.
@@ -53,6 +50,8 @@
 - These are step down transfomer that takes 11KV supply as primary and provides 220V (L-N) or 430V (L-L) at secondary. 
 
 - Parts of DTR
+  Specification plate - 
+  <img src="https://github.com/munish8448/munish8448.github.io/blob/main/img/Specificatio%20Plate/630KVA.jpeg" alt="630KVA" width="240" height="120">
 
 
     - **Main Tank** - Transformer tank also named transformer tank body. It is used to hold, protect, cool the winding and core in one Electrical distributor transformer. The tank body provides isolation of oil and the core from the outside environment. 
