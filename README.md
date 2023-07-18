@@ -38,7 +38,7 @@
 
 - A single-line diagram (also known as an SLD or one-line diagram) is a simplified representation of an electrical system. Symbols and lines are used to represent the nodes and connections in the system, and electrical characteristics may be included as well. 
 
-![SLD](https://en.wikipedia.org/wiki/File:One-line_diagram.svg)
+[SLD](https://github.com/munish8448/munish8448.github.io/blob/main/diagrams/networkOverview.md)
 
 ## Equipment
 - Various Equipments like **transformers, supply cables, RMU, Feeder pillar, ACB** etc are use throughout the electrical power distribution system in order to provide electricity to the consumers in an effient and reliable manner.
