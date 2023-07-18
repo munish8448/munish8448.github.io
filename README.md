@@ -50,8 +50,12 @@
 - These are step down transfomer that takes 11KV supply as primary and provides 220V (L-N) or 430V (L-L) at secondary. 
 
 - Parts of DTR
-  Specification plate - 
-  <img src="https://github.com/munish8448/munish8448.github.io/blob/main/img/Specificatio%20Plate/630KVA.jpeg" alt="630KVA" width="240" height="120">
+  
+    - Specification plate <br>
+  	![630KVA](https://github.com/munish8448/munish8448.github.io/blob/main/img/Specificatio%20Plate/630KVA.jpeg)<br>
+	![990KVA](https://github.com/munish8448/munish8448.github.io/blob/main/img/Specificatio%20Plate/990KVA.jpeg)<br>
+	![1600KVA](https://github.com/munish8448/munish8448.github.io/blob/main/img/Specificatio%20Plate/1600KVA.jpeg)<br>
+
 
 
     - **Main Tank** - Transformer tank also named transformer tank body. It is used to hold, protect, cool the winding and core in one Electrical distributor transformer. The tank body provides isolation of oil and the core from the outside environment. 
