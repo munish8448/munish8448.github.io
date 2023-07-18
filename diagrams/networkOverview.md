@@ -1,14 +1,3 @@
-```mermaid
-  graph LR;
-
-    NR <---> WR;
-    NR <---> ER;
-    WR <---> ER;
-    ER <---> NER;
-    SR <---> WR;
-    SR <---> ER;
-    
-```
 
 ```mermaid
 
