@@ -15,8 +15,9 @@
 <script async defer src="https://buttons.github.io/buttons.js"> </script>
 
 
-<h1 class="header">Progress Report</h1>
-<p class="header">My Notes</p>
+<h1 class="header">Apprenticeship Progress Report</h1>
+<p class="header">My Notes<br>(In Development)
+</p>
 
 
 
@@ -24,28 +25,26 @@
 </header>
 
 
-
-
-
 # O&M Department
+![](./img/equip.jpg)
+
 
 ## About
 - Electrical systems need regular maintenance to ensure continued ~~compliance with the codes and publications referred to in this document~~. Such maintenance will prevent system and equipment failures and ensure maximum safety and efficiency in the utilization of the facilities.
 
 ## System Overview
 
+[Network Overview (click to view the diagram)](https://github.com/munish8448/munish8448.github.io/blob/main/diagrams/networkOverview.md)
+
 ### SLD
 
 - A single-line diagram (also known as an SLD or one-line diagram) is a simplified representation of an electrical system. Symbols and lines are used to represent the nodes and connections in the system, and electrical characteristics may be included as well. 
 
-[Single Line Diagram (click to view document)](https://github.com/munish8448/munish8448.github.io/blob/main/diagrams/networkOverview.md)
+[Single Line Diagram (click to view document)]
 
 ## Equipment
 - Various Equipments like **transformers, supply cables, RMU, Feeder pillar, ACB** etc are use throughout the electrical power distribution system in order to provide electricity to the consumers in an effient and reliable manner.
-
-<br>
-
-![](./img/equip.jpg)
+  
 
 ### Components of Distribution System
 
@@ -53,9 +52,26 @@
 
 - These are step down transfomer that takes 11KV supply as primary and provides 220V (L-N) or 430V (L-L) at secondary. 
 
-- Parts of DTR
+- **Parts of DTR**
   
-    - Specification plate <br>
+- **Specification Plate** 
+  - The data on the Nameplate of a transformer contains
+	
+	| | |
+	|---|---|
+	|Serial number	| Number of phases | 
+	|Frequency | Voltage rating |
+	|KVA Rating	| Temperature Rise |
+	|Polarity | Percentage Impedance |
+	|Connection Diagram	| Name of Manufacturer |
+	|Type of insulating liquid	| Conductor Material for each Winding |
+	|Basic Insulation Level (BIL) | Total Weight (kg) |
+	|Insulation Level | Vector Group |
+	|Total loss at 50% load | Total loss at 100% load|
+   
+<br>
+
+  - Specification plate of 630KVA, 990KVA and 1600KVA <br>
 
 <div>
 <p> 
