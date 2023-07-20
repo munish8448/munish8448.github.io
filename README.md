@@ -55,7 +55,7 @@
 
 <div>
 <p> 
-	<img src="./img/Specificatio%20Plate/specCombined.png" alt="630 KVA" width="1920" height="1080" style="border:5px solid black">
+	<img src="./img/Specificatio%20Plate/specCombined.png" alt="630 KVA" width="1920" height="720" style="border:5px solid black">
 </p>
 </div>
 
