@@ -30,7 +30,7 @@
 # O&M Department
 
 ## About
-- Electrical systems need regular maintenance to ensure continued compliance with the codes and publications referred to in this document. Such maintenance will prevent system and equipment failures and ensure maximum safety and efficiency in the utilization of the facilities.
+- Electrical systems need regular maintenance to ensure continued ~~compliance with the codes and publications referred to in this document~~. Such maintenance will prevent system and equipment failures and ensure maximum safety and efficiency in the utilization of the facilities.
 
 ## System Overview
 
@@ -38,10 +38,14 @@
 
 - A single-line diagram (also known as an SLD or one-line diagram) is a simplified representation of an electrical system. Symbols and lines are used to represent the nodes and connections in the system, and electrical characteristics may be included as well. 
 
-[Single Line Diagram](https://github.com/munish8448/munish8448.github.io/blob/main/diagrams/networkOverview.md)
+[Single Line Diagram (click to view document)](https://github.com/munish8448/munish8448.github.io/blob/main/diagrams/networkOverview.md)
 
 ## Equipment
 - Various Equipments like **transformers, supply cables, RMU, Feeder pillar, ACB** etc are use throughout the electrical power distribution system in order to provide electricity to the consumers in an effient and reliable manner.
+
+<br>
+
+![](./img/equip.jpg)
 
 ### Components of Distribution System
 
@@ -70,7 +74,7 @@
   
   - **Breather** - The breather is used in the transformer to filter out the moisture from the air. Breather consists of silica gel which absorbs moisture from the air. Conservator tank present at the top of the transformer which allows adequate space for expansion of oil.
   
-  ![breather]()
+  <img src="./img/Transformer/breather.jpg" alt="Breather" width="250" height="250" style="border:5px solid black">
   
   - **Magnetic Oil Gauge** - The MOG (Magnetic Oil Gauge) is a device by which we can supervise the level of liquid/oil inside the tank or conservator of power transformer and also gives us an alert low oil level indication with making mercury switch. 
   
