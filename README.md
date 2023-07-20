@@ -53,7 +53,7 @@
   
     - Specification plate <br>
 <p> 
-	<img src="https://github.com/munish8448/munish8448.github.io/blob/main/img/Specificatio%20Plate/630KVA.jpeg" alt="630" width="42" height="42" style="border:5px solid black">
+	<img src="https://drive.google.com/uc?export=view&id=1TgsrLPNqigImpq2DeHMeVE7R5oeV42t1" alt="630" width="42" height="42" style="border:5px solid black">
 </p>
   	![630KVA](https://github.com/munish8448/munish8448.github.io/blob/main/img/Specificatio%20Plate/630KVA.jpeg)<br>
 	![990KVA](https://github.com/munish8448/munish8448.github.io/blob/main/img/Specificatio%20Plate/990KVA.jpeg)<br>
