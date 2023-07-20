@@ -55,18 +55,18 @@
 
 <div>
 <p> 
-	<img src="./img/Specificatio%20Plate/specCombined.png" alt="630 KVA" width="1920" height="720" style="border:5px solid black">
+	<img src="./img/Specificatio%20Plate/specCombined.png" alt="630 KVA" width="480" height="220" style="border:5px solid black">
 </p>
 </div>
 
 
   - **Main Tank** - Transformer tank also named transformer tank body. It is used to hold, protect, cool the winding and core in one Electrical distributor transformer. The tank body provides isolation of oil and the core from the outside environment. 
-  
-  ![main tank]()
-  
+
+ <img src="./img/Transformer/mainTank.jpg" alt="mainTank" width="250" height="250" style="border:5px solid black">
+
   - **Conservator** - The Conservator Tank of a transformer is defined simply as a cylindrical tank mounted on the roof of the transformer main tank. It is used to provide enough space for the oil in the transformer to spread after heating.
   
-  ![conservator]()
+  <img src="./img/Transformer/conservator.jpg" alt="Conservator" width="250" height="250" style="border:5px solid black">
   
   - **Breather** - The breather is used in the transformer to filter out the moisture from the air. Breather consists of silica gel which absorbs moisture from the air. Conservator tank present at the top of the transformer which allows adequate space for expansion of oil.
   
