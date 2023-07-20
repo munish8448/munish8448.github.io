@@ -55,19 +55,8 @@
 
 <div>
 <p> 
-	<img src="./img/Specificatio%20Plate/630KVA.jpeg" alt="630 KVA" width="200" height="200" style="border:5px solid black">
+	<img src="./img/Specificatio%20Plate/specCombined.png" alt="630 KVA" width="1920" height="270" style="border:5px solid black">
 </p>
-
-<p> 
-	<img src="./img/Specificatio%20Plate/990KVA.jpeg" alt="990 KVA" width="200" height="200" style="border:5px solid black">	
-</p>
-
-
-<p> 
-	<img src="./img/Specificatio%20Plate/1600KVA.jpeg" alt="1600 KVA" width="200" height="200" style="border:5px solid black">	
-</p>
-
-
 </div>
 
 
