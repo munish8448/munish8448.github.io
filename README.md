@@ -52,38 +52,53 @@
 - Parts of DTR
   
     - Specification plate <br>
+
+<div>
 <p> 
-	<img src="https://drive.google.com/uc?export=view&id=1TgsrLPNqigImpq2DeHMeVE7R5oeV42t1" alt="630" width="42" height="42" style="border:5px solid black">
+	<img src="./img/Specificatio%20Plate/630KVA.jpeg" alt="630 KVA" width="200" height="200" style="border:5px solid black">
 </p>
-  	![630KVA](./img/Specificatio%20Plate/630KVA.jpeg)<br>
-	![990KVA](https://github.com/munish8448/munish8448.github.io/blob/main/img/Specificatio%20Plate/990KVA.jpeg)<br>
-	![1600KVA](https://github.com/munish8448/munish8448.github.io/blob/main/img/Specificatio%20Plate/1600KVA.jpeg)<br>
+
+<h6>630 KVA</h6><br>
+
+<p> 
+	<img src="./img/Specificatio%20Plate/990KVA.jpeg" alt="990 KVA" width="200" height="200" style="border:5px solid black">	
+</p>
+
+<h6>990 KVA</h6><br>
 
 
+<p> 
+	<img src="./img/Specificatio%20Plate/1600KVA.jpeg" alt="1600 KVA" width="200" height="200" style="border:5px solid black">	
+</p>
 
-    - **Main Tank** - Transformer tank also named transformer tank body. It is used to hold, protect, cool the winding and core in one Electrical distributor transformer. The tank body provides isolation of oil and the core from the outside environment. 
-    
-    ![main tank]()
-    
-    - **Conservator** - The Conservator Tank of a transformer is defined simply as a cylindrical tank mounted on the roof of the transformer main tank. It is used to provide enough space for the oil in the transformer to spread after heating.
-    
-    ![conservator]()
-    
-    - **Breather** - The breather is used in the transformer to filter out the moisture from the air. Breather consists of silica gel which absorbs moisture from the air. Conservator tank present at the top of the transformer which allows adequate space for expansion of oil.
-    
-    ![breather]()
-    
-    - **Magnetic Oil Gauge** - The MOG (Magnetic Oil Gauge) is a device by which we can supervise the level of liquid/oil inside the tank or conservator of power transformer and also gives us an alert low oil level indication with making mercury switch. 
-    
-    ![mog]()
-    
-    - **Bushing** - In electric power, a bushing is a hollow electrical insulator that allows an electrical conductor to pass safely through a conducting barrier such as the case of a transformer or circuit breaker without making electrical contact with it.
-    
-    ![bushing]()
-    
-    - **Radiator** - The radiator is an essential type of equipment of oil transformers used to transfer the thermal energy from one medium to another for the purpose of cooling. The radiators are linked to the transformer through the pipeline at the upper and lower side of the transformer
-    
-    ![radiator]()
+<h6>1600 KVA</h6><br>
+
+</div>
+
+
+  - **Main Tank** - Transformer tank also named transformer tank body. It is used to hold, protect, cool the winding and core in one Electrical distributor transformer. The tank body provides isolation of oil and the core from the outside environment. 
+  
+  ![main tank]()
+  
+  - **Conservator** - The Conservator Tank of a transformer is defined simply as a cylindrical tank mounted on the roof of the transformer main tank. It is used to provide enough space for the oil in the transformer to spread after heating.
+  
+  ![conservator]()
+  
+  - **Breather** - The breather is used in the transformer to filter out the moisture from the air. Breather consists of silica gel which absorbs moisture from the air. Conservator tank present at the top of the transformer which allows adequate space for expansion of oil.
+  
+  ![breather]()
+  
+  - **Magnetic Oil Gauge** - The MOG (Magnetic Oil Gauge) is a device by which we can supervise the level of liquid/oil inside the tank or conservator of power transformer and also gives us an alert low oil level indication with making mercury switch. 
+  
+  ![mog]()
+  
+  - **Bushing** - In electric power, a bushing is a hollow electrical insulator that allows an electrical conductor to pass safely through a conducting barrier such as the case of a transformer or circuit breaker without making electrical contact with it.
+  
+  ![bushing]()
+  
+  - **Radiator** - The radiator is an essential type of equipment of oil transformers used to transfer the thermal energy from one medium to another for the purpose of cooling. The radiators are linked to the transformer through the pipeline at the upper and lower side of the transformer
+  
+  ![radiator]()
     
 
 - **RMU**
